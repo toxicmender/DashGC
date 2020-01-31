@@ -1,10 +1,10 @@
-tensorflow-gpu==2.0.0
-keras-tuner
-pandas
-numpy
+tensorflow-gpu==2.1.0
+cudf-cuda100
+scikit-learn[alldeps]
 jupyter
 nbextensions
 jupyterthemes
 jupyter_contrib_nbextensions
 qgrid
-flask
+selenium
+
